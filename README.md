@@ -6,5 +6,4 @@ I am interested in system/platform engineering, DevOps/DevSecOps topics.
 I take ownership of what I commit and build, however can't take responsibility (here) if something is used incorrectly.
 
 # Posts
-- [GitHub Actions action - TS/JS to Golang conversion - md](./posts/2026oct28-TS_JS-to-Golang.md)
-- [GitHub Actions action - TS/JS to Golang conversion - html](./posts/gha_action_ts_js_to_golang.html)
+- [2026-10-28 - GitHub Actions action - TS/JS to Golang conversion](./posts/2026oct28-TS_JS-to-Golang.md)
